@@ -1,0 +1,70 @@
+h1 {
+    font-family: fantasy;
+    font-variant: initial;
+    color: blue;
+    text-align: center;
+    padding-top: 5%;
+}
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}   
+iframe {
+    margin-left: 25%;
+}
+body {
+    background-color: rgb(182, 255, 246);
+}
+img {
+    width: 200px;
+}
+nav {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+}
+
+ol {
+    font-size: 16pt;
+}
+ul {
+    font-size: 12pt;
+    color: darkolivegreen;
+}
+
+
+a {
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.class1 {
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: gray;
+}
+
+.class2 {
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    width: 100%;
+    color: gray;
+    text-align: center;
+}
+
+.class3 {
+    font-size: medium;
+    font-family: monospace;
+    color: gray;
+    text-align: right;
+}
+
+.backtotop {
+    padding-top: 10%;
+    text-align: center;
+    height: 50px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+}
